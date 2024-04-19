@@ -1,0 +1,1 @@
+Analyze chocolate sales data by customer demographics, brand, and product categories across diverse geographic locations. Plus, check out how chocolate sales go up and down during different times of the year in 2021.
